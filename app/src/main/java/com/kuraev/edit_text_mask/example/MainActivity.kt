@@ -1,7 +1,7 @@
-package com.kuraev.edit_text_mask
+package com.kuraev.edit_text_mask.example
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
